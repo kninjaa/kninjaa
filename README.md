@@ -45,7 +45,7 @@
     <img align="center" alt="Tailwindcss" title="Tailwind CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
     <img align="center" alt="Materialize" title="Materialize" height="23" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materializecss/materializecss-original.svg">
     <img align="center" alt="OpenApi" title="OpenAPI/Swagger" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/openapi/openapi-original.svg">
-    <img align="center" alt="Scalar" title="Scalar for .NET" height="30" width="40" src="icons/">
+    <img align="center" alt="Scalar" title="Scalar for .NET" height="30" width="40" src="icons/Scalar.svg">
     <br>
     <img align="center" alt="Sass" title="Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
     <img align="center" alt="Less" title="Less" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg">
@@ -65,14 +65,14 @@
     <img align="center" alt="SQL Developer" title="Oracle SQL Developer" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg">
     <br>
     <img align="center" alt="MongoDB" title="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg">
-    <img align="center" alt="Cloudflare R2" title="Cloudflare R2" height="30" width="40" src="icons/">
-    <img align="center" alt="Amazon 3S" title="Amazon 3S" height="30" width="40" src="icons/">
+    <img align="center" alt="Cloudflare R2" title="Cloudflare R2" height="30" width="40" src="icons/R2.svg">
+    <img align="center" alt="Amazon 3S" title="Amazon 3S" height="30" width="40" src="icons/S3.svg">
 </div><br>
     
 ### IA
 <div style="display: inline-block;">
-    <img align="center" alt="OpenAI" title="OpenAI" height="30" width="40" src="icons/">
-    <img align="center" alt="GithubCopilot" title="Github Copilot" height="30" width="40" src="icons/">
+    <img align="center" alt="OpenAI" title="OpenAI" height="30" width="40" src="icons/Openai.svg">
+    <img align="center" alt="Github Copilot" title="Github Copilot" height="30" width="40" src="icons/Copilot.svg">
     <img align="center" alt="IBM Watson Assistant" title="Watson Assistant" height="30" width="40" src="icons/IbmWatson.svg">
 </div><br>
 
@@ -111,7 +111,7 @@
 ### Design
 <div style="display: inline_block;">
     <img align="center" alt="Figma" title="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
-    <img align="center" alt="Adobe" title="Adobe" height="30" width="40" src="icons/">
+    <img align="center" alt="Adobe" title="Adobe" height="30" width="40" src="icons/Adobe.svg">
     <img align="center" alt="Canva" title="Canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
 </div><br>
 
@@ -121,7 +121,7 @@
     <img align="center" alt="Jira" title="Jira" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg">
     <img align="center" alt="Confluence" title="Confluence" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg">
     <img align="center" alt="Trello" title="Trello" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg">
-    <img align="center" alt="Linear" title="Linear" height="30" width="40" src="icons/">
+    <img align="center" alt="Linear" title="Linear" height="30" width="40" src="icons/Linear.svg">
 </div><br>
 
 ### Office
