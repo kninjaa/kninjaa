@@ -45,7 +45,7 @@
     <img align="center" alt="Tailwindcss" title="Tailwind CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
     <img align="center" alt="Materialize" title="Materialize" height="23" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materializecss/materializecss-original.svg">
     <img align="center" alt="OpenApi" title="OpenAPI/Swagger" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/openapi/openapi-original.svg">
-    <img align="center" alt="Scalar" title="Scalar for .NET" height="30" width="40" src="icons/Scalar.svg">
+    <img align="center" alt="Scalar" title="Scalar for .NET" height="30" width="30" src="icons/Scalar.svg">
     <br>
     <img align="center" alt="Sass" title="Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
     <img align="center" alt="Less" title="Less" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg">
